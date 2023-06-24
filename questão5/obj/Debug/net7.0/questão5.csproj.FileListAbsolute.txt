@@ -1,0 +1,15 @@
+C:\Users\PQD\Desktop\lista6\questão5\bin\Debug\net7.0\questão5.exe
+C:\Users\PQD\Desktop\lista6\questão5\bin\Debug\net7.0\questão5.deps.json
+C:\Users\PQD\Desktop\lista6\questão5\bin\Debug\net7.0\questão5.runtimeconfig.json
+C:\Users\PQD\Desktop\lista6\questão5\bin\Debug\net7.0\questão5.dll
+C:\Users\PQD\Desktop\lista6\questão5\bin\Debug\net7.0\questão5.pdb
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.csproj.AssemblyReference.cache
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.AssemblyInfoInputs.cache
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.AssemblyInfo.cs
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.csproj.CoreCompileInputs.cache
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.dll
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\refint\questão5.dll
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.pdb
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\questão5.genruntimeconfig.cache
+C:\Users\PQD\Desktop\lista6\questão5\obj\Debug\net7.0\ref\questão5.dll
